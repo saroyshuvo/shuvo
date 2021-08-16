@@ -1,0 +1,123 @@
+body {
+				background: #bfffd5;
+				width:330px;
+				border:4px solid #aac4cc;
+				box-shadow:0 0 4px 5px #66cc69;
+}
+ul{
+margin: 0;
+width: 328px;
+padding:0;
+list-style:none;
+height: 80px;
+line-height:80px;
+background:#1e1e1e ;
+font-family:arial,Helvetica;
+box-shadow : 0 3px 4px #ce00ff;
+font-size: 20px;
+
+}
+li{
+				float:left ;
+				border-right:1px solid #a6b5a6;		
+}
+a{
+				display:block;
+				text-decoration:none;
+				color: #ffff;
+				text-shadow: 0 0 4px #FF0000;
+}
+a:hover{
+				background: #aab5ff;
+}
+
+
+
+.head{
+				text-align :center;
+				margin:1px;
+				background:#957c8f;
+				box-shadow : 0 0 3px 4px #000000;
+				text-shadow:0 0 4px #ff15e7;
+}
+.head:hover{
+				background: #e3ff2b;
+				box-shadow : 0 0 3px 4px #ff7300;
+				}
+		h1{
+  text-align: center;
+  color: white;
+ text-shadow: 0 0 4px #f800ff;
+				}
+	
+	.only img{
+				width: 300px;
+				height:320 ;
+				border:2px solid #ffffea;
+				padding: 10px;
+				box-shadow : 0 0 3px 4px #ff7300;
+	}			
+button{
+				text-align:center ;
+				border:2px solid #ffd5f4;
+				color: white;
+				text-shadow:0 0 4px #ff15e7;
+				box-shadow : 0 0 3px 4px #40e0ff;
+}
+button:hover{
+				background: #ffc700;
+				box-shadow : 0 0 3px 4px #ff00f1;
+				
+}
+
+
+.sa {
+  width: 100px;
+  height: 100px;
+  background:#662bff;
+  transition :width 2s, height 2s, transform 2s;
+  box-shadow:0 4px 4px 8px #17d211;
+}
+
+.sa:hover {
+  width: 300px;
+  height: 300px;
+  transform: rotate(360deg);}
+  
+ img{
+  width: 100px;
+  height: 100px;
+  background:#662bff;
+  transition :width 2s, height 2s, transform 2s;
+  box-shadow:0 0 4px 8px #d2005f ;
+}
+img:hover {
+  width: 300px;
+  height: 300px;
+  transform: rotate(360deg);}
+
+
+p{
+				background: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to bottom right, red, yellow);
+  color: white;
+  text-align:center;
+  padding:10px;
+  text-shadow:0 0 4px #1100ff;
+}
+address {
+				background: #3e446a;
+				color: white;
+				font: 23px;
+				text-shadow:0 0 4px #ff15e7;
+				box-shadow:0 4px 4px 4px #e300ff;
+				padding: 15px;
+}
+
+.last{
+				background: #2e3e5c;
+				padding: 15px;
+				text-shadow:0 0 4px #ff15e7;
+				box-shadow:0 4px 4px 4px #ca68d0;
+				
+}
